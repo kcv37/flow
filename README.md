@@ -1,0 +1,2 @@
+# flow
+Flow is an advanced diagram programming package that focus on Industrial Automation and IoT. Flow can be used to simulate data coming from PLC to test a software or a service that integrated with PLC without connecting to an actual PLC device. Flow can also be used to simulate data coming from the software side so that a control engineering can test his PLC logic without running the software.
